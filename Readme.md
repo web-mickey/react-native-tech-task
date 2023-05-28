@@ -1,6 +1,6 @@
 # Recruitment task
 
-### This repository contains a simple mobile application built as a recruitment task. It uses the [Poke API](https://pokeapi.co/) to fetch data and display information about various Pokémon.
+This repository contains a simple mobile application built as a recruitment task. It uses the [Poke API](https://pokeapi.co/) to fetch data and display information about various Pokémon.
 
 ## Features
 
